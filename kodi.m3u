@@ -1,0 +1,25 @@
+#EXTM3U tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz"
+#EXTINF:-1 tvg-id="DAZN.1.de",DAZN 1
+https://bigembed.mizhls.ru/lb/premium426/index.m3u8|Referer=https%3A%2F%2Fcookiewebplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28Android+9%3B+Tablet%3B+rv%3A62.0%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F72.0.1388.65+Safari%2F537.36&Origin=https%3A%2F%2Fcookiewebplay.xyz
+#EXTINF:-1 tvg-id="DAZN.2.de",DAZN 2
+https://bigembed.mizhls.ru/lb/premium427/index.m3u8|Referer=https%3A%2F%2Fcookiewebplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28Android+9%3B+Tablet%3B+rv%3A62.0%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F72.0.1388.65+Safari%2F537.36&Origin=https%3A%2F%2Fcookiewebplay.xyz
+#EXTINF:-1 tvg-id="Sky.Sport.Top.Event.de",Sky Sport Top Event
+https://bigembed.mizhls.ru/lb/eplayerSky_Sport_Top_Event_HD/playlist.m3u8|Referer=https%3A%2F%2Fcookiewebplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28Android+9%3B+Tablet%3B+rv%3A62.0%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F72.0.1388.65+Safari%2F537.36&Origin=https%3A%2F%2Fcookiewebplay.xyz
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.de",Sky Sport Bundesliga 1
+https://bigembed.mizhls.ru/lb/eplayerSky_Sport_Bundesliga_1_HD/playlist.m3u8|Referer=https%3A%2F%2Fcookiewebplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28Android+9%3B+Tablet%3B+rv%3A62.0%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F72.0.1388.65+Safari%2F537.36&Origin=https%3A%2F%2Fcookiewebplay.xyz
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.2.de",Sky Sport Bundesliga 2
+https://bigembed.mizhls.ru/lb/eplayerSky_Sport_Bundesliga_2_HD/playlist.m3u8|Referer=https%3A%2F%2Fcookiewebplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28Android+9%3B+Tablet%3B+rv%3A62.0.1388.65+Safari%2F537.36&Origin=https%3A%2F%2Fcookiewebplay.xyz
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.3.de",Sky Sport Bundesliga 3
+https://bigembed.mizhls.ru/lb/eplayerSky_Sport_Bundesliga_3_HD/playlist.m3u8|Referer=https%3A%2F%2Fcookiewebplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28Android+9%3B+Tablet%3B+rv%3A62.0.1388.65+Safari%2F537.36&Origin=https%3A%2F%2Fcookiewebplay.xyz
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.4.de",Sky Sport Bundesliga 4
+https://bigembed.mizhls.ru/lb/eplayerSky_Sport_Bundesliga_4_HD/playlist.m3u8|Referer=https%3A%2F%2Fcookiewebplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28Android+9%3B+Tablet%3B+rv%3A62.0.1388.65+Safari%2F537.36&Origin=https%3A%2F%2Fcookiewebplay.xyz
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.5.de",Sky Sport Bundesliga 5
+https://bigembed.mizhls.ru/lb/eplayerSky_Sport_Bundesliga_5_HD/playlist.m3u8|Referer=https%3A%2F%2Fcookiewebplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28Android+9%3B+Tablet%3B+rv%3A62.0.1388.65+Safari%2F537.36&Origin=https%3A%2F%2Fcookiewebplay.xyz
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.6.de",Sky Sport Bundesliga 6
+https://bigembed.mizhls.ru/lb/eplayerSky_Sport_Bundesliga_6_HD/playlist.m3u8|Referer=https%3A%2F%2Fcookiewebplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28Android+9%3B+Tablet%3B+rv%3A62.0.1388.65+Safari%2F537.36&Origin=https%3A%2F%2Fcookiewebplay.xyz
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.7.de",Sky Sport Bundesliga 7
+https://bigembed.mizhls.ru/lb/eplayerSky_Sport_Bundesliga_7_HD/playlist.m3u8|Referer=https%3A%2F%2Fcookiewebplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28Android+9%3B+Tablet%3B+rv%3A62.0.1388.65+Safari%2F537.36&Origin=https%3A%2F%2Fcookiewebplay.xyz
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.8.de",Sky Sport Bundesliga 8
+https://bigembed.mizhls.ru/lb/eplayerSky_Sport_Bundesliga_8_HD/playlist.m3u8|Referer=https%3A%2F%2Fcookiewebplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28Android+9%3B+Tablet%3B+rv%3A62.0.1388.65+Safari%2F537.36&Origin=https%3A%2F%2Fcookiewebplay.xyz
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.9.de",Sky Sport Bundesliga 9
+https://bigembed.mizhls.ru/lb/eplayerSky_Sport_Bundesliga_9_HD/playlist.m3u8|Referer=https%3A%2F%2Fcookiewebplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28Android+9%3B+Tablet%3B+rv%3A62.0.1388.65+Safari%2F537.36&Origin=https%3A%2F%2Fcookiewebplay.xyz
